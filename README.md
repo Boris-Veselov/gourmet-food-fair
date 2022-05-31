@@ -4,7 +4,7 @@ gourmet-food-fair
 
 # description
 
-a web application for an upcoming three-day food event. The application needs to be deployed and it needs to perform fast, especially on mobile. 
+A web application for an upcoming three-day food event. The application needs to be deployed and it needs to perform fast, especially on mobile. 
 
 Google's Lighthouse web auditing tool will be used to provide insight into how an application is performing, including both what it's doing well and what might be hindering performance.
 
@@ -17,6 +17,8 @@ The app needs to be turned into a PWA - Progressive Web Application. PWAs resemb
 * CSS
 
 # website
+
+https://boris-veselov.github.io/gourmet-food-fair/
 
 # screenshot
 
