@@ -1,6 +1,17 @@
-# project name
+# Title
 
-gourmet-food-fair
+Gourmet-food-fair
+
+## Table of Contents:
+
+* [Description](#description)
+* [Technologies](#technologies)
+* [Website-link](#website-link)
+* [Preview](#preview)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Contact](#contact)
 
 # description
 
@@ -10,19 +21,24 @@ Google's Lighthouse web auditing tool will be used to provide insight into how a
 
 The app needs to be turned into a PWA - Progressive Web Application. PWAs resemble native mobile apps and allow users to interact with the application even when there is no internet connection or cell service. For the food fair app, this means that event attendees would be able to access data such as schedules and vendor locations without worrying about having a cell signal or WiFi.
 
-# Languages and technologies used
+# Technologies
 
 * Javascript
 * HTML
 * CSS
 
+# screenshot
+<img width="1107" alt="Screen Shot 2022-10-13 at 2 27 33 PM" src="https://user-images.githubusercontent.com/96749114/195677728-ebe9f62b-e569-4977-913c-93462ff64084.png">
+
 # website
 
 https://boris-veselov.github.io/gourmet-food-fair/
 
-# screenshot
-<img width="1107" alt="Screen Shot 2022-10-13 at 2 27 33 PM" src="https://user-images.githubusercontent.com/96749114/195677728-ebe9f62b-e569-4977-913c-93462ff64084.png">
-
 # contribution
 
-Made by Boris Veselov
+Boris Veselov
+
+## Contact
+
+borisveselov@yahoo.com
+github.com/boris-veselov
