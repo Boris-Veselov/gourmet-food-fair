@@ -13,7 +13,7 @@ Gourmet-food-fair
 * [Contribution](#contribution)
 * [Contact](#contact)
 
-# description
+# Description
 
 A web application for an upcoming three-day food event. The application needs to be deployed and it needs to perform fast, especially on mobile. 
 
@@ -27,14 +27,14 @@ The app needs to be turned into a PWA - Progressive Web Application. PWAs resemb
 * HTML
 * CSS
 
-# screenshot
+# Screenshot
 <img width="1107" alt="Screen Shot 2022-10-13 at 2 27 33 PM" src="https://user-images.githubusercontent.com/96749114/195677728-ebe9f62b-e569-4977-913c-93462ff64084.png">
 
-# website
+# Website
 
 https://boris-veselov.github.io/gourmet-food-fair/
 
-# contribution
+# Contribution
 
 Boris Veselov
 
